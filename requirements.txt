@@ -1,0 +1,7 @@
+pandas
+#mysql toolkit
+pymysql # this will work as adapter
+sqlalchemy from create_engine   #connect python to the mysql and postgresql
+
+#postgresql
+psycopg2
